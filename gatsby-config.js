@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: 'My first Gatsby site!',
+    title: 'Welcome',
     author: 'Alex Zagame'
   },
   plugins: [
