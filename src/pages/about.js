@@ -1,11 +1,12 @@
 import React from "react"
 import Layout from "../components/layout"
+import Head from "../components/Head"
 
 
 const AboutPage = () => {
   return (
     <Layout>
-
+      <Head title="about" />
       <h1>About the author</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
